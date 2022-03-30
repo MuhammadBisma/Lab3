@@ -10,7 +10,7 @@
 Ini adalah hasil dari Membuat Ordered List <p>
 
 ## Contoh Coding
-html
+```html
 <section id="order-list">
 <h2>Ordered List</h2>
 <ol>
@@ -19,14 +19,14 @@ html
 <li>Basis Data 2</li>
 </ol>
 </section>
-
+```
 ## <b>Membuat Nonordered List</b>
 <img width="215" alt="gambar2" src="https://user-images.githubusercontent.com/101621068/160339902-b0e02440-5a33-4ab7-81b8-34dd137c04da.png">
 
 Ini adalah hasil dari Membuat Nonordered <p>
 
 ## Contoh Coding
-html
+```html
 <section id="unorder-list">
 <h2>Unordered List</h2>
 <ul type="square">
@@ -35,14 +35,14 @@ html
 <li>Algoritma &amp; Pemrograman</li>
 </ul>
 </section>
-
+```
 ## <b>Membuat Description List</b>
 <img width="182" alt="gambar3" src="https://user-images.githubusercontent.com/101621068/160340782-d48d5175-fc94-4924-b006-2bba1c4d7b52.png">
 
 Ini adalah hasil dari Membuat Description List <p>
 
 ## Contoh Codingan
-html
+```html
 <section id="unorder-list">
 <h2>Description List</h2>
 <dl>
@@ -56,7 +56,7 @@ html
 <dd>Bisnis Digital</dd>
 </dl>
 </section>
-
+```
 
 ## <b>Membuat Tabel</b>
 <img width="224" alt="gambar4" src="https://user-images.githubusercontent.com/101621068/160341079-6fb9d0f0-88f2-4d89-879d-fae1a6dd4332.png">
@@ -64,7 +64,7 @@ html
 Ini adalah hasil dari Membuat Tabel <p>
 
 ## Contoh Codingan
-html
+```html
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -77,7 +77,7 @@ html
 </header>
 </body>
 </html>
-
+```
 
 <b>Mengatur Margin dan Padding</b>
 Untuk mengatur margin dan padding pada cel data, tambahkan atribut cellpadding dan
@@ -87,9 +87,9 @@ cellspacing pada tag table.
 Ini adalah hasil dari Mengatur Margin dan Padding<p>
 
 ## Contoh Codingan
-html
-<table border="1" cellpadding="4" cellspacing="0">
-
+```html
+<table border="1" cellpadding="4" cellspacing="0"> 
+```
 
 ## <b>Menggabungkan Sel Data</b>
 Untuk menggabungkan sel data, gunakan atribut rowspan dan colspan. Atribut rowspan untuk
@@ -100,7 +100,7 @@ horizontal).
 Ini adalah hasil dari Menggabungkan Sel Data<p>
 
 ## Contoh Codingan
-html
+```html
 <table border="1" cellpadding="6" cellspacing="0">
 <thead>
 <tr>
@@ -125,7 +125,7 @@ html
 </tr>
 </tbody>
 </table>
-
+```
 
 ## <b>Membuat Form</b>
 <img width="959" alt="gambar7" src="https://user-images.githubusercontent.com/101621068/160342395-f739cba6-8862-416b-8e98-36a88235fb35.png">
@@ -133,7 +133,7 @@ html
 Ini adalah hasil dari Membuat Form <p>
 
 ## Contoh Codingan
-html
+```html
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -146,9 +146,9 @@ html
 </header>
 </body>
 </html>
-
+```
 Kemudian selanjutnya tambahkan kode untuk membuat tabel sederhana seperti berikut:
-
+```html
 <form action="proses.php" method="post">
 <fieldset>
 <legend>Data Pelanggan</legend>
@@ -170,7 +170,7 @@ for="jk_p">Perempuan</label>
 <p><input type="submit" value="Login"></p>
 </fieldset>
 </form>
-
+```
 ## <b>Menambahkan Style pada Form</b>
 Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 <img width="957" alt="gambar8" src="https://user-images.githubusercontent.com/101621068/160342997-5ff975e8-23a8-45fb-a464-bff41c07184e.png">
@@ -178,7 +178,7 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 Ini adalah hasil dari Menambahkan Style pada Form <p>
 
 ## Contoh Codingan
-html
+```html
 <style>
 form p > label {
 display: inline-block;
@@ -195,6 +195,6 @@ font-weight: bold;
 padding: 5px 15px;
 }
 </style>
-
+```
 
 ## TERIMA KASIH
